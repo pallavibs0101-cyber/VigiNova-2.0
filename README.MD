@@ -89,3 +89,9 @@ Final score is between **0.0 to 1.0**
 
 ## License
 MIT License
+## Tasks
+- Easy: Minor incident detection
+- Medium: Suspicious activity handling
+- Hard: Medical emergency escalation
+## Reward
+Score is normalized between 0.0 and 1.0
