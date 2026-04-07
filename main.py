@@ -34,9 +34,9 @@ action = input("Enter action (emergency / ignore): ")
 reward = 0
 
 if action == scenario["correct_action"]:
-    reward += 10
+    reward += 1.0
 else:
-    reward -= 5
+    reward -= 0.0
 
 print("Reward:", reward)
 import random
@@ -73,9 +73,9 @@ class VigiNovaEnv:
         reward = 0
 
         if action == self.current["correct_action"]:
-            reward += 10
+            reward += 1.0 
         else:
-            reward -= 5
+            reward -= 0.0
 
         done = True
 
