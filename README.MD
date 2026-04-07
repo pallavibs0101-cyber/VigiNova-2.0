@@ -9,3 +9,6 @@ python main.py
 ## Actions
 - emergency
 - ignore
+## Inference
+Run:
+python inference.py
