@@ -15,7 +15,7 @@ It is designed to test decision-making in safety-critical situations.
 
 ## Live Demo
 Hugging Face Space:
-https://pallavibs0101-viginova-2-0.hf.space
+https://pallavibs0101-viginova-env.hf.space
 
 ---
 
